@@ -9,3 +9,4 @@ class ElnurmellimApplication
 fun main(args: Array<String>) {
     runApplication<ElnurmellimApplication>(*args)
 }
+salam
